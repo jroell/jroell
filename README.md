@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jroell/jroell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile! I'm Jason.
 
-Here are some ideas to get you started:
+I've been developing software for the past 13-14 years professionally and for fun. Most of my interests revolve around science, technology, applied mathematics, complexity theory, quantum computing/algorithms, automation tools, and AI autonomous agents (LLM + Tools). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about software (and sometimes other topics) on my blog at https://jasonroell.com and medium at https://medium.com/@roelljr. 
+
+- 🔭 I’m currently working on Vurvey.co - Check it out!
+- 🌱 I’m currently learning how to build and deploy AI agents at scale
+- 👯 I’m looking to collaborate on SuperAGI
+- 🤔 I’m looking for help with finding some good podcasts on AI ecosystems
+- 💬 Ask me about anything
+- 📫 How to reach me: roelljr@gmail.com or on LinkedIn @ https://www.linkedin.com/in/jason-roell-47830817/
