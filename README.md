@@ -6,7 +6,7 @@ I've been developing software for the past 13-14 years professionally and for fu
 
 I write about software (and sometimes other topics) on my blog at https://jasonroell.com and medium at https://medium.com/@roelljr. 
 
-- 🔭 I’m currently working on Vurvey.co - Check it out!
+- 🔭 I’m currently working on https://vurvey.co - Check it out!
 - 🌱 I’m currently learning how to build and deploy AI agents at scale
 - 👯 I’m looking to collaborate on SuperAGI
 - 🤔 I’m looking for help with finding some good podcasts on AI ecosystems
