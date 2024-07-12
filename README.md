@@ -13,4 +13,4 @@ I write about software (and sometimes other topics) on my blog at https://jasonr
 - 💬 Ask me about anything
 - 📫 How to reach me: roelljr@gmail.com or on LinkedIn @ https://www.linkedin.com/in/jason-roell-47830817/
 
-[![Jroell's GitHub stats](https://github-readme-stats.vercel.app/api?username=jroell)](https://github.com/jroell/github-readme-stats)
+
