@@ -12,5 +12,3 @@ I write about software (and sometimes other topics) on my blog at https://jasonr
 - 🤔 I’m looking for help with finding some good podcasts on AI ecosystems
 - 💬 Ask me about anything
 - 📫 How to reach me: roelljr@gmail.com or on LinkedIn @ https://www.linkedin.com/in/jason-roell-47830817/
-
-
